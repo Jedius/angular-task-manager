@@ -1,0 +1,20 @@
+{
+  "name": "slanger-node",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "express": "3.3.3",
+    "winston": "~0.7.2",
+    "redis": "~0.8.4",
+    "coffee-script": "~1.6.3",
+    "validator": "~1.2.1",
+    "connect-redis": "~1.4.5",
+    "connect-multi-redis": "~0.2.0",
+    "async": "~0.2.9",
+    "connect": "~2.8.4",
+    "pusher": "~0.1.3"
+  }
+}
