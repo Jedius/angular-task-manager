@@ -1,0 +1,84 @@
+/* app css stylesheet */
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+.version{
+  margin:10px auto;
+}
+
+.wrap{
+  width: 100%;
+  position: relative;
+}
+
+.wraptemp{
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+  border: 4px groove #e0dbdb;
+}
+
+.search{
+  width: 200px;
+}
+
+.desk{
+  margin : 10px 25% 10px 25%;
+}
+
+.searchtexts{
+  width: 100%;
+}
+
+.edit{
+  margin :0px 150px 0 100px ;
+}
+
+.img{
+  width: 230px;
+  height: 200px;
+}
+
+.edits{
+  margin : 0 1% 0 0 ;
+}
+
+.nameimg{
+  text-align: center;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#editDescription{
+  height: 140px;
+  resize: none;
+}

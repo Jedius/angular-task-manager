@@ -15,21 +15,6 @@ logger =
     ), new log.transports.File(filename: config.LOG_FILE)]
     exitOnError: false
   )
-  # error: ->
-  #   new log.Logger(
-  #     transports: [new log.transports.Console(
-  #       level: "error"
-  #       colorize: "true"
-  #     ), new log.transports.File(filename: config.LOG_FILE)]
-  #     exitOnError: false
-  #   )
-  # warn: ->
-  #   new log.Logger(
-  #     transports: [new log.transports.Console(
-  #       level: "warn"
-  #       colorize: "true"
-  #     ), new log.transports.File(filename: config.LOG_FILE)]
-  #     exitOnError: false
-  #   )
+ 
 module.exports = logger
   

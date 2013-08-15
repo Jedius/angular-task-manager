@@ -1,6 +1,15 @@
 exports.setEnvironment = (env) ->
   boundServices = if process.env.VCAP_SERVICES then JSON.parse(process.env.VCAP_SERVICES) else null
   redisAddress = null
+  DB_HOSTNAME = "localhost"
+  DB_HOST = "127.0.0.1"
+  MONGO_DB_PORT = 27017
+  MONGO_DB_NAME = "angular"
+  MONGO_DB_URL = null
+  MONGO_DB_USER = null
+  MONGO_DB_PASS = null
+
+  mongoUrl = "mongodb://#{DB_HOST}:#{MONGO_DB_PORT}/#{MONGO_DB_NAME}"
   switch(env)
     when "development"
       exports.PORT = process.env.PORT or 3000
@@ -15,7 +24,7 @@ exports.setEnvironment = (env) ->
           name: "redis"
           password: null
           maxAge: 86400000 * 30
-
+      exports.MONGO_DB_URL = mongoUrl
       exports.REDIS_DB = redisAddress
       exports.APP_ID = process.env.APP_ID || '50647' 
       exports.APP_KEY = process.env.APP_KEY || '9b67d007781875ec4344' 

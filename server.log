@@ -1,0 +1,187 @@
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-07-31T11:52:27.019Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-07-31T11:52:27.026Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-07-31T11:52:27.075Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T07:26:30.662Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T07:26:30.670Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T07:26:30.675Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T07:26:30.704Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T07:26:30.734Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T07:28:46.424Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T07:28:46.433Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T07:28:46.436Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T07:28:46.461Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T07:28:46.483Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T07:29:33.410Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T07:29:33.418Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T07:29:33.423Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T07:29:33.451Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T07:43:38.907Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T07:43:38.916Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T07:43:38.923Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T07:43:38.962Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T07:43:38.991Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T07:53:05.138Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T07:53:05.146Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T07:53:05.149Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T07:53:05.177Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T07:53:05.199Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:01:29.887Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:01:29.895Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:01:29.898Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:01:29.931Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:01:29.967Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:11:00.172Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:11:00.180Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:11:00.183Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:11:00.211Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:11:00.238Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:12:20.635Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:12:20.643Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:12:20.646Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:12:20.675Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:12:20.699Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:20:50.276Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:20:50.284Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:20:50.288Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:20:50.316Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:20:50.348Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:21:58.483Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:21:58.491Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:21:58.493Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:21:58.518Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:21:58.541Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:23:33.331Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:23:33.339Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:23:33.342Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:23:33.367Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:23:33.389Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:23:43.321Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:23:43.329Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:23:43.331Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:23:43.356Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:23:43.378Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:24:52.502Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:24:52.510Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:24:52.513Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:24:52.537Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:24:52.560Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:26:24.824Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:26:24.833Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:26:24.835Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:26:24.860Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:26:24.883Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T08:28:10.225Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T08:28:10.233Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T08:28:10.235Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T08:28:10.261Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T08:28:10.284Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T11:41:04.160Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T11:41:04.169Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T11:41:04.173Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T11:41:04.205Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T11:41:04.236Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T12:14:09.685Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T12:14:09.693Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T12:14:09.697Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T12:14:09.727Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T12:14:09.756Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T12:30:42.815Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T12:30:42.823Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T12:30:42.826Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T12:30:42.855Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T12:30:42.885Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T13:37:29.554Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T13:37:29.562Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T13:37:29.566Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T13:37:29.597Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T13:37:29.628Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T13:39:09.022Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T13:39:09.030Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T13:39:09.033Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T13:39:09.063Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T13:39:09.093Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T13:51:29.971Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T13:51:29.979Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T13:51:29.983Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T13:51:30.014Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T13:51:30.042Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T13:53:24.555Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T13:53:24.563Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T13:53:24.565Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T13:53:24.594Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T13:53:24.615Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-02T13:53:54.657Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-02T13:53:54.665Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-02T13:53:54.667Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-02T13:53:54.695Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-02T13:53:54.717Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-05T07:19:19.445Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-05T07:19:19.453Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-05T07:19:19.456Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-05T07:19:19.484Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-05T07:19:19.510Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-05T12:14:25.631Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-05T12:14:25.641Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-05T12:14:25.644Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-05T12:14:25.675Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-05T12:14:25.699Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T07:20:37.380Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T07:20:37.388Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T07:20:37.391Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T07:20:37.424Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T07:20:37.457Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T09:02:54.504Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T09:02:54.512Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T09:02:54.515Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T09:02:54.544Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T09:02:54.567Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T10:53:52.582Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T10:53:52.589Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T10:53:52.593Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T10:53:52.632Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T10:53:52.658Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T11:43:38.343Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T11:43:38.351Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T11:43:38.357Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T11:43:38.387Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T11:43:38.413Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T11:44:11.193Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T11:44:11.204Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T11:44:11.207Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T11:44:11.231Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T11:44:11.252Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-06T11:45:03.694Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-06T11:45:03.705Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-06T11:45:03.708Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-06T11:45:03.731Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-06T11:45:03.753Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-07T07:58:34.868Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-07T07:58:34.876Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-07T07:58:34.880Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-07T07:58:34.905Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-07T07:58:34.926Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-07T10:45:15.950Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-07T10:45:15.960Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-07T10:45:15.964Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-07T10:45:15.994Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-07T10:45:16.030Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-13T11:02:25.278Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-13T11:02:25.290Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-13T11:02:25.294Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-13T11:02:25.326Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-13T11:02:25.362Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-13T11:03:04.324Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-13T11:03:04.335Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-13T11:03:04.338Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-13T11:03:04.365Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-13T11:03:04.391Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-15T10:58:04.807Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-15T10:58:04.815Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-15T10:58:04.818Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-15T10:58:04.841Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-15T10:58:04.868Z"}
+{"level":"info","message":"MONGO DB URL:  mongodb://127.0.0.1:27017/angular","timestamp":"2013-08-15T11:54:39.194Z"}
+{"level":"info","message":"--- Modules loaded into namespace --- at: /app/index.coffee","timestamp":"2013-08-15T11:54:39.202Z"}
+{"level":"info","message":"Configure expressjs app/config/apps.coffee","timestamp":"2013-08-15T11:54:39.209Z"}
+{"level":"info","message":"Server running at http://127.0.0.1: 3000\nPress CTRL-C to stop server. ","timestamp":"2013-08-15T11:54:39.236Z"}
+{"level":"info","message":"SUCCESSFULLY connected to: mongodb://127.0.0.1:27017/angular DATABASE Connection","timestamp":"2013-08-15T11:54:39.261Z"}

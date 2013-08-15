@@ -1,0 +1,60 @@
+<div  ng-controller="TestCtrl"  > 
+    <div  class='wrap panel'>   
+        <div> <a data-toggle="modal" href="#myModal" class="btn btn-primary">create tasks</a>
+            <div class="modal fade" id="myModal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <form >
+                                <fieldset>
+                                    <legend>create new tasks</legend>
+                                    <div class="form-group">
+                                        <input  type="text" placeholder="Enter your URL of picture" class='form-control'ng-model='newURL'>
+                                    </div>
+                                    <div class="form-group">
+                                        <input  type="text" placeholder="name"class='form-control' ng-model='NewName'>
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea class="form-control" rows="3"placeholder="description"ng-model='Infor'></textarea>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+                                        <a class="btn btn-primary" data-dismiss="modal" aria-hidden="true" ng-click=create()>Save changes</a>
+                                    </div>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+    </div>
+
+
+    <div class='desk panel'>
+        <input type='text' class="form-control" placeholder="поиск" ng-model='search.name' class='searchtexts'>
+        <p> order by 
+            <select class="form-control" ng-model='order'>
+            <option>name</option>
+            </select>
+        </p>
+    </div>
+
+    <div class='desk panel' >
+        <div ng-repeat="image in Tasks | filter: search |orderBy:order" class="wraptemp thumb-list" >
+            <a href="#/view/{{image._id}}" >
+                <img ng-src={{image.path}}  class="img thumb" > 
+                    <div>
+                        <label>{{image.name}}</label>
+                    </div>
+                </img>
+            </a>
+            <a ng-click=delets(image._id) class="btn btn-primary">delet tasks</a>
+        </div>
+    </div> 
+</div> 
+
+        

@@ -1,0 +1,46 @@
+<div>
+    <a class="btn btn-primary" type="button" href="#/view">Back</a>
+    
+    <div  ng-controller="Test1Ctrl">
+            <form class='hidden edit pull-right' n><strong> edit Tasks </strong>
+                <div class="panel">
+                    <input type="text"  class="form-control" ng-model="NewUrl">
+                    <input type="text"  class="form-control" ng-model="Newname">
+                    <textarea class="form-control" ng-model="Newop" id='editDescription'></textarea>
+                </div>
+                <a  class="btn btn-primary" ng-click=edit()>Save changes</a>
+            </form>
+
+    </div>
+    <div class='desk panel' ng-model='edit'> 
+        <a class="edits btn btn-primary pull-right" type="button" ng-click=edits()>edit</a>
+        <div ng-show="Tasks.name"></div>
+        <img ng-src={{Tasks.path}} class="img thumb" ng-click=imgOpen()> </img>
+         <h1>{{Tasks.name}}</h1>
+        <div>{{Tasks.info}}</div>
+    </div> 
+</div>
+
+
+<div  class='wrap panel'>   
+    <div class="modal fade" id="imgmodal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body" >
+                    <form ng-controller="Test1Ctrl">
+                        <fieldset>
+                            <legend  class='nameimg'>{{Tasks.name}}</legend>
+                            <div class="form-group" align="center">
+                                 <img ng-src={{Tasks.path}} class="thumb" ng-click=imgOpen()> </img>
+                            </div>
+                            <div class="modal-footer"></div>
+                        </fieldset>
+                   </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
